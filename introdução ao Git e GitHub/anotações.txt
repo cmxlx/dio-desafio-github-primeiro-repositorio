@@ -1,0 +1,15 @@
+Link para Download do Git: https://git-scm.com/downloads
+ 
+O Git Bash é um terminal estendido para otimizar o uso do Git.
+
+Comandos Básicos do Git:
+
+* git Init - Inicia um novo repositório.
+
+* git status - verifica estado dos arquivos/diretórios.
+
+* git add . - adiciona todos os arquivos.
+
+* git commit - comitar um arquivo.
+
+* git rm - remover arquivo.
